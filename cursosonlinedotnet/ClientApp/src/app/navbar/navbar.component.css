@@ -1,0 +1,14 @@
+.mynav1 {
+  height: 40px;
+  background-color: #339240;
+}
+.mynav2 {
+  margin-top: 40px;
+  background-color: white;
+}
+
+#myshadowbar {
+  -webkit-box-shadow: 0px 10px 47px -8px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px 10px 47px -8px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 10px 47px -8px rgba(0, 0, 0, 0.5);
+}

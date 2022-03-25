@@ -1,0 +1,10 @@
+#myshadowcard {
+    -webkit-box-shadow: 0px 10px 47px -8px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0px 10px 47px -8px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 10px 47px -8px rgba(0, 0, 0, 0.5);
+  }
+  
+  .mydiv
+  {
+    margin-top: 150px;
+  }
